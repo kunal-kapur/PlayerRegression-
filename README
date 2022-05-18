@@ -1,2 +1,2 @@
-This project is meant to make predictions on how NBA Players scoring will change based on how their minutes change. Predictions were made using a linear regression
-that took into account changes within player scoring based on changes by minutes played within a season.
+This project is meant to make predictions on how NBA Players scoring will change based on how their minutes change. Predictions were made using several
+forms of regression by analazying changes within player scoring based on previous changes in minutes played within a season.
